@@ -39,3 +39,33 @@ video {
   vertical-align: middle;
 }
 
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 10px;
+}
+
+.article {
+  margin: 25px 0 50px;
+  text-align: center;
+}
+
+.damn-article {
+  background-color: white;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+.legende {
+  text-align: center;
+  font-size: 10px;
+  line-height: 20px;
+  font-weight: 800;
+}
+
+span {
+  font-weight: 500;
+  color: #B3B3B3;
+}
