@@ -45,6 +45,18 @@ h1 {
   margin: 10px;
 }
 
+h2 {
+  font-size: 18px;
+  line-height: 23px;
+  font-family: sans-serif;
+}
+
+.strange {
+  font-family: serif;
+  font-size: 22px;
+  line-height: 26px;
+}
+
 .article {
   margin: 25px 0 50px;
   text-align: center;
@@ -52,6 +64,8 @@ h1 {
 
 .damn-article {
   background-color: white;
+  padding-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 p {
@@ -68,4 +82,48 @@ p {
 span {
   font-weight: 500;
   color: #B3B3B3;
+}
+
+body {
+  background-color: #F7F7F7;
+}
+
+header {
+  background-color: white;
+}
+
+main {
+  padding: 20px 30px 50px;
+}
+
+h3 {
+  font-family: sans-serif;
+  font-size: 12px;
+  line-height: 50px;
+  background: #EEE;
+  padding-left: 20px;
+}
+
+.second-article {
+  padding: 25px 20px 30px;
+  background: white;
+  margin-bottom: 20px;
+}
+
+.second-article h2 {
+  margin-bottom: 20px;
+}
+
+.sub-title {
+  color: black;
+}
+
+.second-article p {
+  font-weight: 300;
+}
+
+.sub-strange {
+  font-style: italic;
+  color: black;
+  font-weight: 600;
 }
